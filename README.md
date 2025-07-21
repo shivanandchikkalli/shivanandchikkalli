@@ -1,7 +1,7 @@
 Hi 👋 <!--My name is Shivanand Chikkalli -->
 ====================================
 
-Senior Software Engineer
+Lead Software Engineer
 ------------------------
 
 Innovative tech enthusiast with 8 years of experience working as a software engineer. Capable of working with variety of technology and software solutions. A valuable team member who has experience in diagnosing problems and developing solutions.
@@ -45,4 +45,7 @@ src="https://img.shields.io/github/followers/shivanandchikkalli?logo=github&styl
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/shivanandchikkalli"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanandchikkalli&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanandchikkalli&label=Profile%20views&color=0e75b6&style=flat" alt="mmertpolat" /> </p>
+
+![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanandchikkalli&show_icons=true)
+

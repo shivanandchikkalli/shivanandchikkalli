@@ -4,15 +4,12 @@ Hi 👋 <!--My name is Shivanand Chikkalli -->
 Lead Software Engineer
 ------------------------
 
-Innovative tech enthusiast with 8 years of experience working as a software engineer. Capable of working with variety of technology and software solutions. A valuable team member who has experience in diagnosing problems and developing solutions.
+Innovative tech enthusiast with 8.5 years of experience working as a software engineer. Capable of working with variety of technology and software solutions. A valuable team member who has experience in diagnosing problems and developing solutions.
 
 * 🌍  I'm based in India
 * 🧠  I'm currently mastering Dockers and Kubernetes
 * ⚡  I'm certified Azure solutions architect (AWS and GCP, one the way)
 * 🤝  I'm open to collaborating on Cloud and Web Applications (preferably Backend)
-
-<a href="https://www.github.com/shivanandchikkalli" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/shivanandchikkalli?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 

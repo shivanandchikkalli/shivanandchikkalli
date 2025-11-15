@@ -1,10 +1,10 @@
 Hi 👋 <!--My name is Shivanand Chikkalli -->
 ====================================
 
-Lead Software Engineer
+Software Engineer
 ------------------------
 
-Innovative tech enthusiast with 8.5 years of experience working as a software engineer. Capable of working with variety of technology and software solutions. A valuable team member who has experience in diagnosing problems and developing solutions.
+Innovative tech enthusiast with 9+ years of experience working as a software engineer. Capable of working with variety of technology and software solutions. A valuable team member who has experience in diagnosing problems and developing solutions.
 
 * 🌍  I'm based in India
 * 🧠  I'm currently mastering Dockers and Kubernetes
